@@ -44,8 +44,8 @@ $ apt install ffmpeg -y
 $ apt install python3 -y
 $ python3 setup.py install
 $ apt install yarn (untuk termux)
-$ git clone https://github.com/DARK-02/DarkBotMD
-$ cd DarkBotMD
+$ git clone https://github.com/Rudal-XD/BotWa
+$ cd BotWa
 $ yarn (untuk termux)
 $ npm install
 $ node index
@@ -53,6 +53,6 @@ $ node index
 <div align="center">
 
 # ● Join Group ●
-[![Group Bot](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/GfDPRMb91AD8UXpD2jbJVD)
+[![Group Bot](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/GiHFAU97vDH2RMzbouUSaY)
 
 </div>
