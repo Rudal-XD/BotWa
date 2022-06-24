@@ -1,13 +1,13 @@
 <div align="center">
 
 # ● Deploy ●
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DARK-02/DarkBotMD)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Rudal-XD/BotWa)
 </div>
 <div align="center">
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" alt="Mario Game" width="300" />
 <div align="center">
 <p align="center">
-<a href="#"><img title="DarkBotMD" src="https://img.shields.io/badge/Bot MultiDevice-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="BotWa" src="https://img.shields.io/badge/Bot MultiDevice-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 </p>
@@ -20,7 +20,7 @@
 </details>
  
 Script WhatsApp Bot Multi Device,
-Base By DikaArdnt
+Base By Rudal-XD
 
 ## NOTE
 This Script is for everyone, not for Sale. Jika dijual neraka menunggumu brother !
